@@ -1,0 +1,8 @@
+{
+  "short_name": "Recipe Box",
+  "name": "Recipe Box | Made by Yuki",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

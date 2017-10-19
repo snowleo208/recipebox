@@ -1,0 +1,75 @@
+h {
+  font-family: 'Roboto', sans-serif;
+}
+
+.container-fluid {
+  margin-top: 60px;
+  max-width: 900px;
+}
+.receipeImage {
+  width: 80%;
+  padding: 10px;
+  margin: 0 auto;
+  display: block;
+}
+
+.receipe {
+  padding: 10px;
+}
+
+.recipeTitle {
+  font-family: 'Saira', sans-serif;
+}
+
+.recipeIngred {
+  font-family: 'Lato', sans-serif;
+}
+
+div {
+  padding: 5px;
+}
+
+.buttonStyle {
+  margin: 5px;
+}
+
+.overlay {
+width: 100%;
+position: fixed;
+z-index: 1;
+top: 0;
+left: 0;
+background-color: rgba(0,0,0, 0.9);
+overflow-x: hidden;
+transition: opacity 0.3s;
+}
+
+.recipeBlock {
+padding: 8px;
+background-color:#fff;
+border-radius: 5px;
+width: 90%;
+height: 100%;
+font-family: 'Lato', sans-serif;
+margin: 0 auto;
+overflow-y: scroll;
+}
+
+.closeButton {
+position: fixed;
+top: 0;
+right: 0;
+background-color: rgba(0,0,0, 0.9);
+border: rgba(0,0,0, 0.9);
+overflow: hidden;
+}
+
+.recipeHeader {
+  display: block;
+  font-family: 'Saira', sans-serif;
+  color: grey;
+}
+
+button {
+	cursor: pointer;
+}
